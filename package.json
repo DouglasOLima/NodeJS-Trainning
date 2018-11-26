@@ -1,0 +1,23 @@
+{
+  "name": "olamundo",
+  "version": "1.0.0",
+  "description": "Este projeto é para a reciclagem do GIT e Estudo do NodeJS * O arquivo \"ola.js\" exibe uma mensagem na tela",
+  "main": "ola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoGemini/NodeJS-Trainning.git"
+  },
+  "author": "NoGemini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoGemini/NodeJS-Trainning/issues"
+  },
+  "homepage": "https://github.com/NoGemini/NodeJS-Trainning#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
