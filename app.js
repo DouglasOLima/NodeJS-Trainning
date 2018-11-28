@@ -1,16 +1,8 @@
-var express = require('express');
-app =  express();
-app.set('view engine', 'ejs');
+var app = require('./config/server');
 
-app.get('/', function(req, res)
-{
-    res.render("home/index");
-});
+var rotaIndex = require('./app/routes/home')(app);
 
-app.get('/node', function(req, res)
-{
-    res.render("node");
-});
+var rotaNode = require('./app/routes/node')(app);
 
 app.listen(3128, function()
 {
