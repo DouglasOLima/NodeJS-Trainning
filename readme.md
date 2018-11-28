@@ -1,5 +1,4 @@
-# Primeiro projeto em Node
-Este projeto é para a reciclagem do GIT e Estudo do NodeJS
+# Repositorio para estudo de NodeJS
 ## Recursos Inclusos
 * Framework Express
 * Engine Ejs
