@@ -1,9 +1,10 @@
-# Repositorio para estudo de NodeJS
+# NodeJs-Trainning
+## Descrição
+Repositório para estudo do NodeJs e reciclagem do GIT
 ## Recursos Inclusos
 * Framework Express
 * Engine Ejs
 ## Instalação das dependencias
 ```
-npm install express --save
-npm install ejs --save
+npm install
 ```
